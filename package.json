@@ -1,0 +1,18 @@
+{
+  "name": "bot-telegram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node DoseOfE621/bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "telegraf": "^4.4.2",
+    "telegraf-inline-menu": "^6.3.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
